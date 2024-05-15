@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        // mi swgundo cambio aprendiendo GitHub 
         public int CategoryId { get; set; }
 
         [Required]
